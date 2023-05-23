@@ -1,0 +1,14 @@
+
+
+.outer-container {
+    background-color: bisque;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    padding: 40px;
+}
+
+.img-container {
+    background-color:aquamarine;
+    padding: 30px;
+}
